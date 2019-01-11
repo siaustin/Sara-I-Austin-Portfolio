@@ -189,6 +189,9 @@ button:hover {
 .linkToGithub {
   width: 10%;
 }
+.linksToPrev {
+  width: 10%;
+}
 .label {
   z-index: 1;
   font-size: 120%;
