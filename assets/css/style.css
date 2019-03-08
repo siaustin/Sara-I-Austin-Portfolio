@@ -159,7 +159,8 @@ button:hover {
   background-color: #1c403e;
   color: #777777;
 }
-.fas {
+/* resume icon */
+.fas {  
   color: skyblue;
 }
 /* portfolio */
@@ -168,12 +169,13 @@ button:hover {
   justify-content: center;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: repeat(4, 200px);
+  grid-template-rows: repeat(5, 200px);
   grid-gap: 40px;
   padding: 0 40px 40px 40px;
 }
 .projectImg {
   width: 100%;
+  max-height: 100%;
 }
 .gallery {
   position: relative;
